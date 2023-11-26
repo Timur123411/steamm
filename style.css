@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap'); 
+
+
+.fon {
+	background-image: url(0.jpg);
+	background-size: cover;
+	background-size: 100% 100%;
+}
+
+.box {
+	height: 400px;
+	width: 1900px;
+	display: flex;
+	background-image: url(steam.jpg);
+	background-size: 100% 100%;
+}
+
+.box-kid {
+	background: red;
+	height: 400px;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	display: flex;
+	background-image: url(spider.gif);
+	background-size: 100% 100%;
+}
+
+.box-kid1 {
+	height: 300px;
+	width: 200px;
+	background: blue;
+	margin-left: 100px;
+	margin-top: 20px;
+	background-image: url(spider2.avif);
+	background-size: 100% 100%;
+}
+
+.box-kid2 {
+	height: 300px;
+	width: 200px;
+	background: blue;
+	margin-left: 100px;
+	margin-top: 20px;
+	background-image: url(spiderman3.webp);
+	background-size: 100% 100%;
+}
+
+.box-kid3 {
+	height: 300px;
+	width: 200px;
+	background: blue;
+	margin-left: 100px;
+	margin-top: 20px;
+	background-image: url(spider1.avif);
+	background-size: 100% 100%;
+}
+
+.body {
+	height: 500px;
+	width: 1900px;
+	background: red;
+	margin-top: 100px;
+	display: flex;
+	background-image: url(fon.gif);
+	background-size: 100% 100%;
+
+}
+
+.body-1 {
+	height: 300px;
+	width: 300px;
+	background: blue;
+	margin-left: 130px;
+	margin-top: 130px;
+	background-image: url(cs2.jpg);
+	background-size: 100% 100%;
+}
+
+.body-2 {
+	height: 300px;
+	width: 300px;
+	background: blue;
+	margin-left: 130px;
+	margin-top: 130px;
+	background-image: url(rdr.webp);
+	background-size: 100% 100%;
+}
+
+.body-3 {
+	height: 300px;
+	width: 300px;
+	background: blue;
+	margin-left: 130px;
+	margin-top: 130px;
+	background-image: url(dota2.jpg);
+	background-size: 100% 100%;
+
+}
+
+.body-4 {
+	height: 300px;
+	width: 300px;
+	background: blue;
+	margin-left: 130px;
+	margin-top: 130px;
+	background-image: url(gta5.png);
+	background-size: 100% 100%;
+}
+
+.buttons {
+	background: #187836;
+	color: white;
+	margin-top: 310px;
+	width: 100px;
+	height: 30px;
+	margin-left: 50px;
+	border: none;
+	border-radius: 5px;
+}
+
+.steam-img {
+	height: 300px;
+	width: 1900px;
+}
+
+.button {
+	background: #187836;
+	color: white;
+	margin-top: 315px;
+	width: 100px;
+	height: 30px;
+	margin-left: 100px;
+	border: none;
+	border-radius: 5px;
+}
+
+.links {
+	color: white;
+	margin-left: 100px;
+}
+
+.links2 {
+	color: white;
+	margin-left: 775px;
+}
+
+.game {
+	height: 600px;
+	width: 1900px;
+	display: flex;
+}
+
+
+
+.game1 {
+	background: #666565;
+	height: 520px;
+	width: 520px;
+	margin-top: 50px;
+	border-radius: 10px;
+	
+}
+
+.game2 {
+	background: #666565;
+	height: 520px;
+	width: 520px;
+	margin-left: 150px;
+	margin-top: 50px;
+	border-radius: 10px;
+}
+
+.gamekid2 {
+	background: blue;
+	height: 250px;
+	width: 400px;
+	border-radius: 5px;
+}
+
+.game3 {
+	background: #666565;
+	height: 520px;
+	width: 520px;
+	margin-left: 150px;
+	margin-top: 50px;
+	border-radius: 10px;
+}
+
+.gamekid3 {
+	background: blue;
+	height: 250px;
+	width: 400px;
+	border-radius: 5px;
+}
+
+.game1:hover {
+	background: #154f85;
+	height: 520px;
+	width: 520px;
+	transition: 1;
+
+}
+
+.game2:hover {
+	background: #154f85;
+	height: 520px;
+	width: 520px;
+	transition: 1;
+	
+}
+
+.game3:hover {
+	background: #154f85;
+	height: 520px;
+	width: 520px;
+	transition: 1;
+	
+}
+
+.buttons:hover {
+	background: #154f85;
+	height: 30px;
+	width: 100px;
+	transition: s;
+}
+
+.button:hover {
+	background: #154f85;
+	height: 30px;
+	width: 100px;
+}
+
+
